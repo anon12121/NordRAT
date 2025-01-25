@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fWCFsiEHbu4=",
+  "success": true,
+  "projectFilePath": "E:\\NordTeck_FinalClean\\New folder\\NordTeckServer\\NordTeckServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\holli\\.nuget\\packages\\costura.fody\\6.0.0\\costura.fody.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
